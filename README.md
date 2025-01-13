@@ -1,1 +1,11 @@
-# architecture-sprint-8
+# Проектная работа 8 спринта
+
+## Реализовано api, к ф-циям и методам добавлены комментарии
+Сборка:
+```bash
+$ docker-compose build
+```
+Запуск:
+```bash
+$ docker-compose up
+```
